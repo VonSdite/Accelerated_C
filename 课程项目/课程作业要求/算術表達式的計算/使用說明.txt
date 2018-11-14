@@ -1,0 +1,6 @@
+exprtk.hpp 包含用於計算多種數學表達式的值的類及函數，但對於本項目，我們祗用到加減乘除運算。
+
+exprtk.hpp文件使用方法：將exprtk.hpp放在項目文件所在目錄中，或者設置VS包含放置exprtk.hpp的目錄作為“include”目錄之一。
+
+其中類及函數的用法參見“sample.cpp”，該庫使用非常簡單，模仿sample.cpp中的用法已經足夠，若還有不明之處請參考“readme.txt”。
+
